@@ -1,23 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.6d2f0473.chunk.css",
-    "main.js": "/static/js/main.e81cc562.chunk.js",
-    "main.js.map": "/static/js/main.e81cc562.chunk.js.map",
+    "main.js": "/static/js/main.35d835b6.chunk.js",
+    "main.js.map": "/static/js/main.35d835b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.14a2f347.js",
     "runtime-main.js.map": "/static/js/runtime-main.14a2f347.js.map",
-    "static/js/2.34419aa6.chunk.js": "/static/js/2.34419aa6.chunk.js",
-    "static/js/2.34419aa6.chunk.js.map": "/static/js/2.34419aa6.chunk.js.map",
+    "static/js/2.ce9b9ea9.chunk.js": "/static/js/2.ce9b9ea9.chunk.js",
+    "static/js/2.ce9b9ea9.chunk.js.map": "/static/js/2.ce9b9ea9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.27e8bcfbf6e55b0425ed34fc8565256e.js": "/precache-manifest.27e8bcfbf6e55b0425ed34fc8565256e.js",
+    "precache-manifest.3370e73f7ae2796c266faa5f42745b42.js": "/precache-manifest.3370e73f7ae2796c266faa5f42745b42.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6d2f0473.chunk.css.map": "/static/css/main.6d2f0473.chunk.css.map",
-    "static/media/Jae Beom Bae DS Resume.pdf": "/static/media/Jae Beom Bae DS Resume.8403e8b1.pdf",
-    "static/media/Portfolio Cover - Airbnb NYC.jpg": "/static/media/Portfolio Cover - Airbnb NYC.346f3275.jpg"
+    "static/css/main.6d2f0473.chunk.css.map": "/static/css/main.6d2f0473.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.14a2f347.js",
-    "static/js/2.34419aa6.chunk.js",
+    "static/js/2.ce9b9ea9.chunk.js",
     "static/css/main.6d2f0473.chunk.css",
-    "static/js/main.e81cc562.chunk.js"
+    "static/js/main.35d835b6.chunk.js"
   ]
 }
